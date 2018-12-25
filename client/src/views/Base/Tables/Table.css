@@ -1,0 +1,11 @@
+tr{
+    text-align: center;
+    vertical-align: middle;
+}
+tr td{
+    height: 40px;
+    font-size: 20px;
+}
+#action{
+    width: 100px;
+}
